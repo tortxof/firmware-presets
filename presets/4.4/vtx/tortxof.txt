@@ -1,0 +1,25 @@
+#$ TITLE: tortxof's VTX Power
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: VTX
+#$ STATUS: COMMUNITY
+#$ AUTHOR: tortxof
+
+#$ DESCRIPTION: Set VTX power from 6 position switch.
+#$ DESCRIPTION:
+#$ DESCRIPTION: 6 position switch on Aux 7.
+#$ DESCRIPTION:
+#$ DESCRIPTION: 988us - Power Level 1
+#$ DESCRIPTION: 1193us - Power Level 2
+#$ DESCRIPTION: 1398us - Power Level 3
+#$ DESCRIPTION: 1602us - Power Level 4
+#$ DESCRIPTION: 1807us - Power Level 5
+#$ DESCRIPTION: 2011us - Power Level 6
+
+vtx 0 6 0 0 1 950 1050
+vtx 1 6 0 0 2 1150 1250
+vtx 2 6 0 0 3 1350 1450
+vtx 3 6 0 0 4 1550 1650
+vtx 4 6 0 0 5 1750 1850
+vtx 5 6 0 0 6 1950 2050
