@@ -158,6 +158,7 @@
       "benlumley",
       "Betaflight",
       "BMSThomas",
+      "Botgrinder",
       "ctzsnooze",
       "Daniel Appel / Tehllama",
       "Davide FPV (Davide Angeletti)",
@@ -277,6 +278,7 @@
       "blackbox",
       "BMS",
       "BMSThomas",
+      "botgrinder",
       "brushless",
       "camera",
       "camera_control",
@@ -1269,6 +1271,26 @@
         "freestyle"
       ],
       "author": "Joshua Bardwell",
+      "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.3/rates/Botgrinder.txt",
+      "hash": "e3f91b61d07fc81d185c55b08d49af5513357dd50c6eb2a7f4817c79c8be3555",
+      "title": "BOTGRINDER rates",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "botgrinder",
+        "rates",
+        "freestyle",
+        "whoop"
+      ],
+      "author": "Botgrinder",
       "priority": 10000
     },
     {
@@ -3888,7 +3910,7 @@
     },
     {
       "fullPath": "presets/4.4/modes/tortxof.txt",
-      "hash": "bbcb2cabfad128093d4f4453fcc90f37a7d0db7772faa2e81411a4fecab25a53",
+      "hash": "c3e3c45b7b1a379f3a52855242bf384b9dffc0d2d206b879e0677fcf39e53115",
       "title": "tortxof's modes",
       "firmware_version": [
         "4.3",
@@ -5311,6 +5333,24 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.5/other/reset_3d.txt",
+      "hash": "457090460225ee84ddb27a46e74530078f00741067dcf51fb5f3cec443b29d31",
+      "title": "Reset 3D settings to 4.5 default settings",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "OTHER",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "3d",
+        "upside down"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.5/other/reset_gps.txt",
       "hash": "e02daf2076331cda4141148d2cd029fed1c60803b07a4216d0e455e27a4b676a",
       "title": "Reset GPS to 4.5 default settings",
@@ -5327,6 +5367,30 @@
       ],
       "author": "Betaflight",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/other/zoefpv.txt",
+      "hash": "1934407dfd6a8cf8864547aa45fde7a1000a2e38e32189f441965665ad2a3404",
+      "title": "ZoeFPV 3d tuneup",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "TUNE",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "rates",
+        "freestyle",
+        "juicy",
+        "sbang",
+        "zoeFPV",
+        "zoe",
+        "3d",
+        "upside down",
+        "sugarK",
+        "sliders"
+      ],
+      "author": "ZoeFPV",
+      "priority": 1000000000000
     },
     {
       "fullPath": "presets/4.5/rates/ZoeFPV_3D_rates.txt",
