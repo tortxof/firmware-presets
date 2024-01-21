@@ -4940,6 +4940,20 @@
       "priority": 1000000
     },
     {
+      "fullPath": "presets/4.4/vtx/tortxof.txt",
+      "hash": "98f063a9299cd81eae7c1d75e83a99924e76e75675e5e7282d19d264815f9c27",
+      "title": "tortxof's VTX Power",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "author": "tortxof",
+      "priority": 1000000
+    },
+    {
       "fullPath": "presets/4.5/filters/basic_no_rpm_clean.txt",
       "hash": "f71b9e5414b9386dcf4750d5fdbde6a6aa0329a15709a2b87b12c2524cd6d70e",
       "title": "4.5 Filter settings for CLEAN build WITH NO RPM FILTERING.",
