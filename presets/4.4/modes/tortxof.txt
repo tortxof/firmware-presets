@@ -14,6 +14,7 @@
 #$ DESCRIPTION: Aux 4 - Turtle Mode
 #$ DESCRIPTION: Aux 5 - Beeper
 #$ DESCRIPTION: Aux 6 - GPS Rescue (Optional)
+#$ DESCRIPTION: Aux 6 - VTX Pit Mode (Optional)
 
 aux 0 0 0 1800 2100 0 0
 aux 1 36 1 1800 2100 0 0
@@ -38,4 +39,8 @@ aux 19 0 0 900 900 0 0
 
 #$ OPTION BEGIN (UNCHECKED): GPS Rescue
     aux 5 46 5 1800 2100 0 0
+#$ OPTION END
+
+#$ OPTION BEGIN (UNCHECKED): VTX Pit Mode
+    aux 5 39 5 900 1200 0 0
 #$ OPTION END
