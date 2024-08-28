@@ -4436,6 +4436,22 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.4/osd/tortxof.txt",
+      "hash": "9addb80c5f5a393afa8cfc5ec84b9614620a3de28a2896240d2a8e9e97bb746d",
+      "title": "tortxof's HDZero OSD",
+      "firmware_version": [
+        "4.4",
+        "4.5"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "author": "tortxof",
+      "keywords": [
+        "OSD"
+      ],
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.4/other/100-euro-fpv-tune.txt",
       "hash": "5e2b1d2fd1e9dea96eeaece8649eacc03e81b6815a95a3330969a42d37b2b0b8",
       "title": "100-EURO-FPV",
